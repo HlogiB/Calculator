@@ -1,8 +1,13 @@
 from tkinter import *
+<<<<<<< HEAD
 
 #Hello thereew we are the master 
 
 
+=======
+#Aowa hlogi rocks bathong
+#So Master is not apperaring this side
+>>>>>>> hlogi
 root=Tk()
 
 e=Entry(root,width=50,borderwidth=5)
