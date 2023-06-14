@@ -1,5 +1,5 @@
 from tkinter import *
-#Hello thereew
+#Hello thereew hgdgd
 root=Tk()
 
 e=Entry(root,width=50,borderwidth=5)
