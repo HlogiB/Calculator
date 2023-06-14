@@ -1,6 +1,7 @@
 from tkinter import *
 #Aowa hlogi rocks bathong
 #So Master is not apperaring this side
+#remo touchlie
 root=Tk()
 
 e=Entry(root,width=50,borderwidth=5)
