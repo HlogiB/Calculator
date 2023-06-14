@@ -1,10 +1,10 @@
 from tkinter import *
-#Hello there
+#Hello thereew
 root=Tk()
 
 e=Entry(root,width=50,borderwidth=5)
 e.grid(row=0,column=0,columnspan=4,padx=10,pady=20)
-
+#This is hlogi here
 def clear():
 
     e.delete(0,END)
